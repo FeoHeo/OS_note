@@ -1,0 +1,3 @@
+[Windows Event viewer] Basically is a log viewer tool for Windows, helpful if wawnna resolve those system errors or system messages
+
+[Task Scheduler] Does what the name implies. You could also diable processes that does not show up on task manager

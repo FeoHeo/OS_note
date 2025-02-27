@@ -1,0 +1,4 @@
+[nmcli] Network manager tool
+
+
+[neofetch] For ricing - you know the drill
